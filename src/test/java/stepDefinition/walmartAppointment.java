@@ -22,7 +22,7 @@ import java.util.List;
 public class walmartAppointment {
 
     private WebDriver driver;
-//this is a test comment
+
 
     @Before
     public void setup(){
